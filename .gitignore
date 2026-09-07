@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+dist/
+build/
+.idea/
+.vscode/
+.DS_Store
+*.log
+
+# Real/vendor machine artifacts may be sensitive or large. Add intentionally.
+datasets/alfa_samples/*
+!datasets/alfa_samples/README.md
+
