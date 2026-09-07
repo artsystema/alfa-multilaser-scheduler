@@ -15,7 +15,7 @@ build/
 .DS_Store
 *.log
 
-# Real/vendor machine artifacts may be sensitive or large. Add intentionally.
-datasets/alfa_samples/*
-!datasets/alfa_samples/README.md
+# Original samples are deliberately uploaded under incoming/.
+# Keep extracted evidence and generated bulk output local.
+datasets/alfa_samples/work/
 

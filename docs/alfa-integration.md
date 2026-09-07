@@ -21,6 +21,10 @@ Pause and reassess if ALT accepts optic ownership only at mesh/object level or M
 
 Preserve every intermediate file and the exact software/settings used.
 
+Upload samples to [datasets/alfa_samples/incoming](../datasets/alfa_samples/incoming/). Follow the [sample preparation and Codex handling instructions](../datasets/alfa_samples/README.md) and attach the [metadata template](../datasets/alfa_samples/metadata-template.md) for each sample.
+
+Inspect laser ownership, exposure coverage, parameter associations, per-laser order and cross-laser synchronization separately. Laser IDs surviving an export alone do not establish that ALT preserves a proposed concurrent schedule.
+
 ## Permitted analysis
 
 Comparison tooling may report:

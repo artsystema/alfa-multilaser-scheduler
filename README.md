@@ -27,6 +27,7 @@ The locked sequence is:
 - [Knowns and unknowns](docs/unknowns.md)
 - [Validation plan](docs/validation-plan.md)
 - [Project rules](AGENTS.md)
+- [Upload printer jobs](datasets/alfa_samples/incoming/) and [sample handling instructions](datasets/alfa_samples/README.md)
 
 ## M0 scope
 
